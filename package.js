@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "Latest version of Parsley.js packaged for meteor"
+	summary: "Parsley.js packaged for MiB3"
 });
 
 Package.on_use(function (api){
