@@ -1,0 +1,9 @@
+{
+    "name": "parsley-b3",
+    "description": "parsley form validator http://parsleyjs.org for dynasign-b3. ",
+    "homepage": "https://github.com/charlesjshort/parsley-b3",
+    "author": "Guillaume Potier",
+    "version": "0.1.0",
+    "git": "https://github.com/charlesjshort/parsley-b3.git",
+    "packages": {}
+}
